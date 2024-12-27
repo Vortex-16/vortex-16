@@ -28,6 +28,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 </p>
+## Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
+  
+<p align="center">
+  <img src="https://github.com/vikashgupta16vikashgupta16/blob/main/github-user-contribution.svg" alt="snake"></center>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashgupta16&show_icons=true&locale=en&layout=compact" alt="VIKASHGUPTA" /></p>
 
