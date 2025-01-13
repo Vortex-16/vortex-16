@@ -30,6 +30,22 @@
 </p>
 
 ## Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
+
+## 📈 Profile Statistics
+
+<a href="https://github.com/vikashgupta16"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16p&color=red&style=for-the-badge"></a>
+<br/>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="vikashgupta16's GitHub stats" /></a>
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=dark&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=Top%20Languages%20Used&card_width=420px" alt="Top Languages Used" /></a>
+  
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
+</p>
+<br/>
   
 <p align="center">
   <img src="https://github.com/vikashgupta16/vikashgupta16/blob/main/github-user-contribution.svg" alt="snake"></center>
