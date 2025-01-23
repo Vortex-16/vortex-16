@@ -1,39 +1,37 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Vikash Gupta</h1>
-<h3 align="center">An aspiring Full-Stack Developer from India !</h3>
-<img align="right" alt="Coding" width="400" height="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+![vikasgupta16-github-header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+## I am VIKASH KR GUPTA From First Year pursuing B.Tech in CSE, having a keen interest in Making Web & Software(UI) .
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIKASHGUPTA16&label=Profile%20views&color=0e75b6&style=flat" alt="VIKASHGUPTA" /> </p>
+- 🤝 I'm open to collaborating on all types of Open Source Projects
+- 😄 Pronouns: ...He/Him
+- 🌱 I’m currently learning ... Backend Web Dev
+- 🌍 I'm based in West Bengal, India
+- ✉️ You can contact me at [vikash9c35@gmail.com](mailto:vikash9c35@gmail.com)
+- ⚡ Fun fact: ... I like to spent time in bowling 
 
-- 🌱 I’m currently learning *HTML*
+## 💻 Tech Stack
 
-- 💬 Ask me about *HTML, CSS, Java, JavaScript, C, C++*
-
-- 📫 How to reach me *vikasharmy811@gmail.com*
-
-- ⚡ Fun fact *I silent.*
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikash-gupta-16devlop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VIKASH GUPTA" height="30" width="40" /></a>
-<a href="https://x.com/GUPTA16VIKASH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VIKASH GUPTA" height="30" width="40" /></a>
-<a href="https://instagram.com/gupta.16.vikash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VIKASH GUPTA" height="30" width="40" /></a>
-
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp;
+ 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&ensp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&ensp;
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&ensp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&ensp;
+ 
+  
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-</p>
+## 🔗 Connect with me
 
-## Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
-
-## 📈 Profile Statistics
-
-<a href="https://github.com/vikashgupta16"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16p&color=red&style=for-the-badge"></a>
+<p align="left">
+   <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashgupta16" height="30" width="40" /></a>&ensp;
+   <a href="[https://www.instagram.com/gupta.16.vikash/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashgupta16" height="30" width="40"/></a>&ensp;
+  <a 
+    href="[https://x.com/GUPTA16VIKASH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikashgupta16" height="30" width="40"/></a>&ensp;
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG"/></a>
 <br/>
 
 ## 📊 GitHub Stats:
@@ -46,13 +44,20 @@
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
 </p>
 <br/>
+
+## Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
   
 <p align="center">
   <img src="https://github.com/vikashgupta16/vikashgupta16/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashgupta16&show_icons=true&locale=en&layout=compact" alt="VIKASHGUPTA" /></p>
+## 📈 Profile Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&locale=en" alt="VIKASHGUPTA" /></p>
+<a href="https://github.com/vikashgupta16"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=Dealer-09p&color=red&style=for-the-badge"></a>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&" alt="VIKASHGUPTA" /></p>
+
+<!---
+Dealer-09/Dealer-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
