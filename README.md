@@ -26,11 +26,20 @@
 ## 🔗 Connect with me
 
 <p align="left">
-   <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashgupta16" height="30" width="40" /></a>&ensp;
-   <a href="[https://www.instagram.com/gupta.16.vikash/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashgupta16" height="30" width="40"/></a>&ensp;
-  <a href="[https://x.com/GUPTA16VIKASH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikashgupta16" height="30" width="40"/></a>&ensp;
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG"/></a>
-<br/>
+   <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashgupta16" height="30" width="40"/>
+   </a>&ensp;
+   
+   <a href="https://www.instagram.com/gupta.16.vikash/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashgupta16" height="30" width="40"/>
+   </a>&ensp;
+   
+   <a href="https://x.com/GUPTA16VIKASH" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikashgupta16" height="30" width="40"/>
+   </a>&ensp;
+   
+   <img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG"/>
+</p>
 
 ## 📊 GitHub Stats:
 
