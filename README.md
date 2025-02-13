@@ -4,7 +4,7 @@
 
 - 🤝 I'm open to collaborating on all types of Open Source Projects
 - 😄 Pronouns: ...He/Him
-- 🌱 I’m currently learning ... Backend Web Dev
+- 🌱 I’m currently learning ... Frontend Web Dev
 - 🌍 I'm based in West Bengal, India
 - ✉️ You can contact me at [vikash9c35@gmail.com](mailto:vikash9c35@gmail.com)
 - ⚡ Fun fact: ... I like to spent time in bowling 
