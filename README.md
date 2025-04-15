@@ -15,6 +15,7 @@
   <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp; 
 <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>&ensp;
   <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&ensp;
+<a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>&ensp;<a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>&ensp;
 
 </p>
 <br/>
