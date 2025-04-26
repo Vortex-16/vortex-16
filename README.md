@@ -90,7 +90,7 @@
   </picture>
 </p>
 
-## 🐍 Watch my contribution graph get eaten by a rainbow snake!
+## 🐍 Watch my contribution graph get eaten by a snake!
 
 <div align="center">
   <div style="
