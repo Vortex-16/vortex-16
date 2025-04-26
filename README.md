@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/Team%20Member-Rouvik_Maji-red?style=flat&logo=github" style="border-radius: 25px;">
   </a>
   <a href="https://github.com/PixelPioneer404" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style="border-radius: 35px;">
+    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style=flat&logo=github"
+style="border-radius: 25px;">
   </a>
 </div>
 
