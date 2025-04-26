@@ -1,4 +1,5 @@
 ![vikasgupta16-github-header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 ## I am VIKASH KR GUPTA From First Year pursuing B.Tech in CSE, having a keen interest in Making Web & Software(UI) .
@@ -92,33 +93,25 @@
 ## 🐍 Watch my contribution graph get eaten by a rainbow snake!
 
 <div align="center">
-  <style>
-    .rainbow-glow {
-      width: fit-content;
-      border-radius: 30px;
-      padding: 10px;
-      animation: rainbowGlow 5s linear infinite;
-    }
-
-    @keyframes rainbowGlow {
-      0% { box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff7f00; }
-      25% { box-shadow: 0 0 10px #ffff00, 0 0 20px #00ff00, 0 0 30px #0000ff; }
-      50% { box-shadow: 0 0 10px #4b0082, 0 0 20px #8f00ff, 0 0 30px #ff0000; }
-      75% { box-shadow: 0 0 10px #ff7f00, 0 0 20px #ffff00, 0 0 30px #00ff00; }
-      100% { box-shadow: 0 0 10px #0000ff, 0 0 20px #4b0082, 0 0 30px #8f00ff; }
-    }
-  </style>
-
-  <div class="rainbow-glow">
+  <div style="
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #ff0000, 0 0 30px #ff7f00, 0 0 40px #ffff00;
+    animation: glow 5s ease-in-out infinite alternate;
+    ">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg">
-      <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" style="border-radius: 20px;">
-    </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" />
+</picture>
   </div>
 </div>
 
-## Profile Views
+## 👁️ Profile Views
 <a href="https://github.com/vikashgupta16">
-  <img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=blue" />
+  <img height="35" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=blue" />
 </a>
+
+<!-- glow animation using pure inline keyframes -->
+<img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="0" height="0" style="animation: glow 5s ease-in-out infinite alternate;"/>
