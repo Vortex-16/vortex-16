@@ -17,15 +17,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the GitHub Snake Animations
+      # Step 2: Generate the GitHub Contributions Snake Animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: vikashgupta16
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif
+            dist/github-snake.svg?palette=rainbow
+            dist/github-snake-dark.svg?palette=neon
+            dist/ocean.gif?palette=ocean
         env:
           home: ${{ secrets.HOME }}
 
@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.HOME }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update default snake animation [skip ci]"
+          commit_message: "Update colorful snake animations [skip ci]"
