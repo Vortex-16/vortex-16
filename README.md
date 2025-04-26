@@ -85,14 +85,13 @@ I'm a first year student pursuing B.Tech in CSE with a keen interest in Web & So
   </picture>
 </p>
 
-## Watch a 🐍 eating my contribution graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg" alt="snake">
-  </picture>
-</p>
+## Watch my contribution graph get eaten by a snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake.svg">
+</picture>
 
 ## Profile Views
 <a href="https://github.com/vikashgupta16">
