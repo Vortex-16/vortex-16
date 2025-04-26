@@ -1,30 +1,34 @@
+![vikasgupta16-github-header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Vikash Kr Gupta</h1>
-<h3 align="center">A passionate coder and developer from India</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-  <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</picture>
+## I am VIKASH KR GUPTA From First Year pursuing B.Tech in CSE, having a keen interest in Making Web & Software(UI) .
 
-<h3>💫 About Me:</h3>
-I'm a first year student pursuing B.Tech in CSE with a keen interest in Web & Software(UI) development.
+- 🤝 I'm open to collaborating on all types of Open Source Projects
+- 😄 Pronouns: ... Alpha Coder
+- 🌱 I’m currently learning ... Front-end Web Dev
+- 🌍 I'm based in West Bengal, India
+- ✉️ You can contact me at [vikash9c35@gmail.com](mailto:vikash9c35@gmail.com)
+- ⚡ Fun fact: ... I like to spent time in bowling 
 
-- 🔭 I'm currently working on developing my skills
-- 🌱 I'm currently learning Front-end Web Development
-- 🤝 I'm open to collaborating on Open Source Projects
-- 💬 Ask me about Web Development or Programming
-- 📫 How to reach me: **vikash9c35@gmail.com**
-- ⚡ Fun fact: I like to spend time bowling
 
-## 👥 Team Collaboration
-<p align="left">
-  <a href="https://github.com/DebugZero0" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Ankan_Nandi-blue?style=flat-square&logo=github">
+
+## 👥 Alpha Coders
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Dealer-09" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Archisman_Pal-orange?style=flat&logo=github" style="border-radius: 25px;">
   </a>
-  <!-- Add more team members as needed -->
-</p>
+  <a href="https://github.com/vikashgupta16" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Vikash_Gupta-green?style=flat&logo=github" style="border-radius: 25px;">
+  </a>
+  <a href="https://github.com/Rouvik" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Rouvik_Maji-red?style=flat&logo=github" style="border-radius: 25px;">
+  </a>
+  <a href="https://github.com/PixelPioneer404" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style="border-radius: 35px;">
+  </a>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,13 +89,34 @@ I'm a first year student pursuing B.Tech in CSE with a keen interest in Web & So
   </picture>
 </p>
 
-## Watch my contribution graph get eaten by a snake 🐍
+## 🐍 Watch my contribution graph get eaten by a rainbow snake!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://github.com/vikashgupta16/vikashgupta16/blob/output/github-snake.svg">
-</picture>
+<div align="center">
+  <style>
+    .rainbow-glow {
+      width: fit-content;
+      border-radius: 30px;
+      padding: 10px;
+      animation: rainbowGlow 5s linear infinite;
+    }
+
+    @keyframes rainbowGlow {
+      0% { box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff7f00; }
+      25% { box-shadow: 0 0 10px #ffff00, 0 0 20px #00ff00, 0 0 30px #0000ff; }
+      50% { box-shadow: 0 0 10px #4b0082, 0 0 20px #8f00ff, 0 0 30px #ff0000; }
+      75% { box-shadow: 0 0 10px #ff7f00, 0 0 20px #ffff00, 0 0 30px #00ff00; }
+      100% { box-shadow: 0 0 10px #0000ff, 0 0 20px #4b0082, 0 0 30px #8f00ff; }
+    }
+  </style>
+
+  <div class="rainbow-glow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg">
+      <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" style="border-radius: 20px;">
+    </picture>
+  </div>
+</div>
 
 ## Profile Views
 <a href="https://github.com/vikashgupta16">
