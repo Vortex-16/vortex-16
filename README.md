@@ -57,7 +57,7 @@
 
 ## 📈 Profile Statistics
 
-<a href="https://github.com/vikashgupta16"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=Dealer-09p&color=red&style=for-the-badge"></a>
+<a href="https://github.com/vikashgupta16"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16p&color=red&style=for-the-badge"></a>
 <br/>
 
 
