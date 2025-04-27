@@ -23,9 +23,10 @@ jobs:
         with:
           github_user_name: vikashgupta16
           outputs: |
-            dist/github-snake.svg?palette=rainbow
-            dist/github-snake-dark.svg?palette=neon
-            dist/ocean.gif?palette=ocean
+  dist/github-snake.svg?color_snake=#FF073A
+  dist/github-snake-dark.svg?color_snake=#FF073A
+  dist/ocean.gif?color_snake=#FF073A
+
         env:
           home: ${{ secrets.HOME }}
 
