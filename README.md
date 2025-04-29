@@ -12,26 +12,6 @@
 - ⚡ Fun fact: ... I like to spent time in bowling 
 
 
-
-## 👥 Alpha Coders
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/Dealer-09" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Archisman_Pal-orange?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/vikashgupta16" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Vikash_Gupta-green?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/Rouvik" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Rouvik_Maji-red?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/PixelPioneer404" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style=flat&logo=github"
-style="border-radius: 25px;">
-  </a>
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-gupta" height="30" width="40" /></a>
@@ -53,6 +33,32 @@ style="border-radius: 25px;">
   <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">C</a> •
   <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">Responsive Web Design</a>
 </p>
+
+
+
+## 👥 Alpha Coders
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Dealer-09" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Archisman_Pal-orange?style=flat&logo=github" style="border-radius: 25px;">
+  </a>
+  <a href="https://github.com/vikashgupta16" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Vikash_Gupta-green?style=flat&logo=github" style="border-radius: 25px;">
+  </a>
+  <a href="https://github.com/Rouvik" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Rouvik_Maji-red?style=flat&logo=github" style="border-radius: 25px;">
+  </a>
+  <a href="https://github.com/PixelPioneer404" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style=flat&logo=github"
+style="border-radius: 25px;">
+  </a>
+</div>
+
+### 📬 Contact Our Team:
+✉️ Email: [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
+📸 Instagram: [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
+
+
 
 # 📊 GitHub Stats:
 
