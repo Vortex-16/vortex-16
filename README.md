@@ -1,130 +1,167 @@
-![vikasgupta16-github-header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<!-- Animated Header with Gradient Text -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <br>
+  <span style="background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; background-clip: text; color: transparent;">
+    VIKASH KR GUPTA
+  </span>
+</h1>
 
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-## I am VIKASH KR GUPTA From First Year pursuing B.Tech in CSE, having a keen interest in Making Web & Software(UI) .
-
-- 🤝 I'm open to collaborating on all types of Open Source Projects
-- 😄 Pronouns: ... Alpha Coder
-- 🌱 I’m currently learning ... Front-end Web Dev
-- 🌍 I'm based in West Bengal, India
-- ✉️ You can contact me at [vikash9c35@gmail.com](mailto:vikash9c35@gmail.com)
-- ⚡ Fun fact: ... I like to spent time in bowling 
+<!-- Typing Animation for Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&width=600&center=true&lines=First+Year+CSE+Student;UI%2FWeb+Developer;Open+Source+Contributor" alt="Typing Animation" />
+</div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-gupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gupta.16.vikash/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gupta.16.vikash" height="30" width="40" /></a>
-<a href="https://x.com/GUPTA16VIKASH" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GUPTA16VIKASH" height="30" width="40" /></a>
-</p>
 
-# 💻 Tech Stack:
+---
+
+### 🚀 About Me
+
+I'm a passionate first-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
+
+- 🌱 Currently mastering: **Node.js, JavaScript, and E.js**
+- 💡 Interests: **Web Development, Open Source, Competitive Programming**
+- 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
+- ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank">Java</a> •
-  <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank">C++</a> •
-  <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">C</a> •
-  <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">Responsive Web Design</a>
-</p>
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-
-## 👥 Alpha Coders
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/Dealer-09" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Archisman_Pal-orange?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/vikashgupta16" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Vikash_Gupta-green?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/Rouvik" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Rouvik_Maji-red?style=flat&logo=github" style="border-radius: 25px;">
-  </a>
-  <a href="https://github.com/PixelPioneer404" target="_blank">
-    <img src="https://img.shields.io/badge/Team%20Member-Rajbeer_Saha-blue?style=flat&logo=github"
-style="border-radius: 25px;">
-  </a>
-</div>
-
-### 📬 Contact Our Team:
-✉️ Email: [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
-📸 Instagram: [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
-
-
-
-# 📊 GitHub Stats:
-
-<!-- Typing effect SVG Header -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+Vikash's+GitHub!;Check+out+my+stats+below...">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E40AF&width=435&lines=Welcome+to+Vikash's+GitHub!;Check+out+my+stats+below...">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+Vikash's+GitHub!;Check+out+my+stats+below..." alt="Typing SVG">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=dark&hide_border=true" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=dark&hide_border=true" width="48%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=dark&hide_border=true" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-light&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true" width="48%">
-  </picture>
-</p>
-
-## 🐍 Watch my contribution graph get eaten by a snake!
+### 📜 Certifications
 
 <div align="center">
-  <div style="
-    width: fit-content;
-    padding: 10px;
-    border-radius: 30px;
-    box-shadow: 0 0 20px #ff0000, 0 0 30px #ff7f00, 0 0 40px #ffff00;
-    animation: glow 5s ease-in-out infinite alternate;
-    ">
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" />
-</picture>
-  </div>
+  <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank">
+    <img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java" alt="Java Certification">
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank">
+    <img src="https://img.shields.io/badge/C++-Certified-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Certification">
+  </a>
+  <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">
+    <img src="https://img.shields.io/badge/C-Certified-9cf?style=for-the-badge&logo=c" alt="C Certification">
+  </a>
+  <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Design-Certified-ff69b4?style=for-the-badge&logo=freecodecamp" alt="Web Design Certification">
+  </a>
 </div>
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikashgupta16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🤝 Connect With Me
 
+<div align="center">
+  <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/gupta.16.vikash/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/GUPTA16VIKASH" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:vikash9c35@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
+---
 
-## 👁️ Profile Views
-<a href="https://github.com/vikashgupta16">
-  <img height="35" title="Counter" src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=blue" />
-</a>
+### 👥 Alpha Coders Team
 
-<!-- glow animation using pure inline keyframes -->
-<img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="0" height="0" style="animation: glow 5s ease-in-out infinite alternate;"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <a href="https://github.com/Dealer-09" target="_blank">
+    <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/vikashgupta16" target="_blank">
+    <img src="https://img.shields.io/badge/Vikash_Gupta-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Rouvik" target="_blank">
+    <img src="https://img.shields.io/badge/Rouvik_Maji-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/PixelPioneer404" target="_blank">
+    <img src="https://img.shields.io/badge/Rajbeer_Saha-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+**Team Contact:**
+📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com) | 
+📸 [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+<br/>
+  
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+  <br/>
+  
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+  <!-- Activity Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-light&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%">
+  </picture>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="100%">
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=radical&no-frame=true&row=1&column=7" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=blue" alt="Profile Views">
+</div>
