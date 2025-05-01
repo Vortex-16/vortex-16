@@ -9,7 +9,7 @@
 
 <!-- Typing Animation for Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&width=600&center=true&lines=First+Year+CSE+Student;UI%2FWeb+Developer;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00F7FF&width=600&center=true&lines=First+Year+CSE+Student;UI%2FWeb+Developer;Open+Source+Contributor" alt="Typing Animation" />
 </div>
 
 
