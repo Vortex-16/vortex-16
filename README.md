@@ -136,6 +136,9 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
+### 📈 My GitHub Stats
+
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&include_all_commits=true&count_private=true&since=2006-11-16)
 
 
 ### 🐍 Contribution Snake
