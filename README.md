@@ -136,6 +136,10 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
+### 📑 Languages 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=tokyonight)
+
 ### 📈 My GitHub Stats
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
