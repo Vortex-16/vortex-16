@@ -136,14 +136,44 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
-### 📑 Languages 
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=tokyonight)
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+<br/>
+  
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+  <br/>
+  
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" width="48%">
+  </picture>
+  
+  <!-- Activity Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-light&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%">
+  </picture>
+</div>
 
-### 📈 My GitHub Stats
-
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
+---
 
 ### 🐍 Contribution Snake
 
