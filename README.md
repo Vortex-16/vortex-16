@@ -1,6 +1,6 @@
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://private-user-images.githubusercontent.com/134761017/397933714-0cbf100d-bfb5-49f7-93c2-94fe9a677c5c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MTY1MjEsIm5iZiI6MTc0ODUxNjIyMSwicGF0aCI6Ii8xMzQ3NjEwMTcvMzk3OTMzNzE0LTBjYmYxMDBkLWJmYjUtNDlmNy05M2MyLTk0ZmU5YTY3N2M1Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOVQxMDU3MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDVjZmY5OGQyNWIxMzFmOWY2ZjAzYTExZTY1YjU2M2VhMjdkZDg3MmE4ZWU4NDYzNzQwYjZiN2UxYWIzYjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EiRZtgT2Ckzdf87wEiUAYIpWW8cp08mgRQYaf0K-Tz4" width="100%">
   <br>
   <span style="background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; background-clip: text; color: transparent;">
     VIKASH KR GUPTA
