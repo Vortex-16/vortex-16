@@ -27,6 +27,12 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
+## 📊 Repository Stats
+- 🗃️ **Total Repositories:** 🔓13 Public, 🔒13 Private
+- 🚀 Always exploring new projects and pushing code!
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Programming Languages
@@ -151,6 +157,7 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" width="48%">
   </picture>
+
   
 <br/>
   
