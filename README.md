@@ -59,11 +59,13 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
   <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Studio" />
 </p>
 
+
 ### ☁️ Deployment Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
 
 ### 🧰 Tools & Platforms
 <p align="left">
@@ -133,7 +135,8 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 </div>
 
 **Team Contact:**
-📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com) | 
+📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  |
+
 📸 [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
 ---
