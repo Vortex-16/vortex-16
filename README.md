@@ -55,6 +55,8 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/CORS-00599C.svg?style=for-the-badge&logo=cors&logoColor=white" alt="CORS" />
+  <img src="https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Console" />
+  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Studio" />
 </p>
 
 ### ☁️ Deployment Platforms
