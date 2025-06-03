@@ -13,7 +13,6 @@
 </div>
 
 
-
 ---
 
 ### 🚀 About Me
@@ -123,30 +122,6 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
-### 👥 Alpha Coders Team
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/Dealer-09" target="_blank">
-    <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/vikashgupta16" target="_blank">
-    <img src="https://img.shields.io/badge/Vikash_Gupta-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Rouvik" target="_blank">
-    <img src="https://img.shields.io/badge/Rouvik_Maji-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/PixelPioneer404" target="_blank">
-    <img src="https://img.shields.io/badge/Rajbeer_Saha-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-**Team Contact:**
-📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  |
-
-📸 [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -184,6 +159,30 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%">
   </picture>
 </div>
+
+---
+
+### 👥 Alpha Coders Team
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <a href="https://github.com/Dealer-09" target="_blank">
+    <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/vikashgupta16" target="_blank">
+    <img src="https://img.shields.io/badge/Vikash_Gupta-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Rouvik" target="_blank">
+    <img src="https://img.shields.io/badge/Rouvik_Maji-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/PixelPioneer404" target="_blank">
+    <img src="https://img.shields.io/badge/Rajbeer_Saha-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+**Team Contact:**
+📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  |
+
+📸 [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
 ---
 
