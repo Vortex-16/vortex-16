@@ -148,31 +148,33 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
+  <!-- Container for Stats and Streak -->
+<div style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
+  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" style="width: 48%; max-width: 420px; height: auto;">
   </picture>
 
-  
-<br/>
-  
   <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" style="width: 48%; max-width: 420px; height: auto;">
   </picture>
-  
-  <br/>
-  
-  <!-- Top Languages -->
+</div>
+
+<br/>
+
+<!-- Top Languages -->
+<div style="display: flex; justify-content: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" style="width: 50%; max-width: 400px; height: auto;">
   </picture>
+</div>
   
   <!-- Activity Graph -->
   <picture>
