@@ -26,6 +26,28 @@ I'm a passionate first-year Computer Science student from West Bengal, India, sp
 
 ---
 
+## 🚀 Highlight Reels
+
+- 🥇 **CodeFlow 2K25 Hackathon Winner**  
+- 🌐 **Over 15 projects** blending software and AI.
+---
+
+## 🧠 Notable Builds
+
+### 🌾 Pragati Path  
+AI crop advisor with *image disease detection (TensorFlow.js)* and *multilingual chatbot (Gemini API)*.
+
+### 💥 Código / CodeBattle  
+Live 1v1 code duel platform — *Socket.IO, Redis leaderboard, AI hints*.
+
+### 🤝 Alpha Chat
+Live Converstaion with Core and any other coders, with specific code sending input and dropdown.
+
+### 👥 Alpha Coders
+Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding & Chat With Coders(Alpha Chat). 
+
+---
+
 ## 📊 Repository Stats
 - 🗃️ **Total Repositories:** 🔓13 Public, 🔒13 Private
 - 🚀 Always exploring new projects and pushing code!
