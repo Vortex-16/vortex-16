@@ -186,6 +186,18 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=monokai">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat" alt="GitHub Trophies" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 👥 Alpha Coders Team
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
