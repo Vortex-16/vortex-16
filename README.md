@@ -1,6 +1,6 @@
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
-  <img src="https://shorturl.at/lSgqh" width="100%">
+  <img src="https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c" width="100%">
   <br>
   <span style="background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; background-clip: text; color: transparent;">
     VIKASH KR GUPTA
