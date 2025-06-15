@@ -49,7 +49,7 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 ---
 
 ## 📊 Repository Stats
-### - 🗃️ **Total Repositories:** 🔓17 Public, 🔒12 Private
+### - 🗃️ **Total Repositories:** 🔓18 Public, 🔒11 Private
 #### - 🚀 Always exploring new projects and pushing code!
 
 ---
