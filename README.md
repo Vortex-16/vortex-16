@@ -216,13 +216,13 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 </div>
 
 **Team Contact:**
-📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  |
+📧 [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)
 
 📸 [@alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution 🐍
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="100%">
@@ -231,5 +231,5 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=red" alt="Profile Views">
 </div>
