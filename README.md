@@ -2,16 +2,11 @@
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c" width="100%">
   <br>
-  <span style="background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; background-clip: text; color: transparent;">
-    VIKASH GUPTA
-  </span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=600&center=true&lines=Second+Year+CSE+Student;UI%2FWeb+Developer;Open+Source+Contributor" alt="Typing Animation" />
 </h1>
-
-<!-- Typing Animation for Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00F7FF&width=600&center=true&lines=First+Year+CSE+Student;UI%2FWeb+Developer;Open+Source+Contributor" alt="Typing Animation" />
-</div>
-
 
 ---
 
@@ -19,7 +14,7 @@
 
 I'm a passionate first-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
-- 🌱 Currently mastering: **Node.js, JavaScript, and E.js**
+- 🌱 Currently mastering: **Node.js, JavaScript, and Express.js**
 - 💡 Interests: **Web Development, Open Source, Competitive Programming**
 - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
 - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
