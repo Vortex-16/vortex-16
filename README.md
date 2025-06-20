@@ -1,7 +1,5 @@
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c" width="100%">
-  <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
 
 <!-- Typing animation -->
@@ -144,30 +142,30 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 <div align="center">
   
   <!-- Container for Stats and Streak -->
-<div style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
+<div>
   <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" style="width: 48%; max-width: 420px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" style=" height: auto;">
   </picture>
 
   <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" style="width: 48%; max-width: 420px; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgupta16&theme=radical&hide_border=true" style=" height: auto;">
   </picture>
 </div>
 
 <br/>
 
 <!-- Top Languages -->
-<div style="display: flex; justify-content: center;">
+<div >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" style="width: 50%; max-width: 400px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" style=" height: auto;">
   </picture>
 </div>
   
@@ -228,3 +226,6 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=red" alt="Profile Views">
 </div>
+
+ <img src="https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c" width="100%">
+  
