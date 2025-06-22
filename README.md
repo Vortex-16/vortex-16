@@ -215,7 +215,7 @@ Team Workflows : Project Showcase, Team Work, Join Us, -> AI for advanced coding
 
 ---
 
-###  Contribution 🐍
+###  Contribution ate by 🐍 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="100%">
