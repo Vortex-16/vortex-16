@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate first-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
+I'm a passionate second-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
 - 🌱 Currently mastering: **Node.js, JavaScript, and Express.js**
 - 💡 Interests: **Web Development, Open Source, Competitive Programming**
