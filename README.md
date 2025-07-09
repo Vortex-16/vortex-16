@@ -19,6 +19,15 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
+### 🌟 Scroll Magic Preview
+
+<!-- Fake scroll-triggered animation using GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="scroll animation" />
+</div>
+
+---
+
 ## 🚀 Highlight Reels
 
 - 🥇 **CodeFlow 2K25 Hackathon Winner**  
@@ -35,10 +44,10 @@ AI crop advisor with *image disease detection (TensorFlow.js)* and *multilingual
 Live 1v1 code duel platform — *Socket.IO, Redis leaderboard, AI hints*.
 
 ### 🤝 Alpha Chat  
-Live conversation with core and sub-team coders, including code snippet sharing and dropdown filters.
+Live chat with team coders, code snippet sharing, dropdown filters.
 
 ### 👥 Alpha Coders  
-Team workflows with project showcase, team hierarchy, AI integration, and live dev chat.
+Team showcase, projects, AI code helper, dev chatroom.
 
 ---
 
@@ -55,36 +64,29 @@ Team workflows with project showcase, team hierarchy, AI integration, and live d
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend
+#### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🛠️ Backend & Tools
+#### 🛠️ Backend & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-### ☁️ Deployment
+#### ☁️ Deployment
 <p align="left">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### 🔧 Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -156,8 +158,7 @@ Team workflows with project showcase, team hierarchy, AI integration, and live d
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
-    <img src="https://streak-stats.demolab.com/?user=vikashgupta16&theme=radical&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=vikashgupta16&theme=radical&hide_border=true" />
   </picture>
 
   <picture>
@@ -174,16 +175,14 @@ Team workflows with project showcase, team hierarchy, AI integration, and live d
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat" width="100%" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat" width="100%" />
 </div>
 
 ---
 
 ### 👥 Alpha Coders Team
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <a href="https://github.com/Dealer-09" target="_blank">
     <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -214,5 +213,3 @@ Team workflows with project showcase, team hierarchy, AI integration, and live d
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=red" alt="Profile Views">
 </div>
-
-<img src="https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c" width="100%">
