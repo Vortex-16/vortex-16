@@ -19,14 +19,6 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
-### 🌟 Scroll Magic Preview
-
-<!-- Fake scroll-triggered animation using GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="scroll animation" />
-</div>
-
----
 
 ## 🚀 Highlight Reels
 
