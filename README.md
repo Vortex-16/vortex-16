@@ -144,22 +144,35 @@ Team showcase, projects, AI code helper, dev chatroom.
 ### 📊 GitHub Stats
 
 <div align="center">
+
+  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikashgupta16&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </picture>
 
+  <!-- Streak Stats -->
   <picture>
-    <img src="https://streak-stats.demolab.com/?user=vikashgupta16&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=vikashgupta16&theme=radical&hide_border=true" alt="GitHub Streak" />
   </picture>
 
+  <!-- Top Languages -->
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </picture>
 
+  <!-- Activity Graph -->
   <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-light&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
   </picture>
+
 </div>
 
 ---
