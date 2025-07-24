@@ -179,13 +179,11 @@ Team showcase, projects, AI code helper, dev chatroom.
 
 ### 🏆 GitHub Trophies
 
-**Light Theme:**
-
-![Trophies Light](https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat)
-
-**Dark Theme (copy this if using dark GitHub):**
-
-![Trophies Dark](https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=onedark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=onedark&margin-w=10&margin-h=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+</picture>
 ---
 
 ### 👥 Alpha Coders Team
