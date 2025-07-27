@@ -44,7 +44,7 @@ Team showcase, projects, AI code helper, dev chatroom.
 ---
 
 ## 📊 Repository Stats
-- 🗃️ **Total Repositories:** 🔓24 Public, 🔒13 Private  
+- 🗃️ **Total Repositories:** 🔓25 Public, 🔒13 Private  
 - 🚀 Always exploring new projects and pushing code!
 
 ---
