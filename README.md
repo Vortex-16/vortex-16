@@ -186,6 +186,11 @@ Team showcase, projects, AI code helper, dev chatroom.
 </picture>
 
 
+### SLACK
+<div align="centre">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=15260&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent">
+</div>
+
 
 ### 👥 Alpha Coders Team
 
