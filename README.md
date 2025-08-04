@@ -185,19 +185,7 @@ Team showcase, projects, AI code helper, dev chatroom.
   <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 </picture>
 
-## ⏳ Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 July 2025 - To: 03 August 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 ### SLACK
