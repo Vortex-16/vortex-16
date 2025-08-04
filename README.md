@@ -185,9 +185,6 @@ Team showcase, projects, AI code helper, dev chatroom.
   <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 </picture>
 
-
-
-
 ### SLACK
 <div align="centre">
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=15260&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent">
