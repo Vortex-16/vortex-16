@@ -108,6 +108,9 @@ Team showcase, projects, AI code helper, dev chatroom.
   <a href="https://www.hackerrank.com/profile/vikash9c35" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
+  <a href="https://leetcode.com/u/Gupta16vikash/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </div>
 
 ---
