@@ -48,7 +48,15 @@ Team showcase, projects, AI code helper, dev chatroom.
 - 🚀 Always exploring new projects and pushing code!
 
 ---
+## 🏆 Hackathon Achievements  
 
+<div align="center">
+  <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d" target="_blank">
+    <img src="https://img.shields.io/badge/CodeFlow_2K25-Hackathon_Winner-brightgreen?style=for-the-badge&logo=hackclub&logoColor=white" />
+  </a>
+</div>
+
+---
 ### 🛠️ Tech Stack
 
 #### Programming Languages
@@ -98,7 +106,11 @@ Team showcase, projects, AI code helper, dev chatroom.
   <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">
     <img src="https://img.shields.io/badge/Web_Design-Certified-ff69b4?style=for-the-badge&logo=freecodecamp">
   </a>
+  <a href="https://www.freecodecamp.org/certification/vikashkumargupta/javascript-algorithms-and-data-structures-v8" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript_Algorithms_&_DS-Certified-yellow?style=for-the-badge&logo=javascript">
+  </a>
 </div>
+
 
 ---
 
