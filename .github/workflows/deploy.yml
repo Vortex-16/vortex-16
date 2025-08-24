@@ -1,5 +1,19 @@
-- name: Deploy 🚀
-  uses: peaceiris/actions-gh-pages@v3
-  with:
-    github_token: ${{ secrets.PERSONAL_TOKEN }}
-    publish_dir: ./output
+name: Deploy 🚀
+
+on:
+  push:
+    branches:
+      - main   # or master, depending on your repo default branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Deploy 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./output
