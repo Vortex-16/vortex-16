@@ -1,0 +1,31 @@
+name: Update README with WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.21'
+
+      - name: Install Markscribe
+        run: go install github.com/muesli/markscribe@latest
+
+      - name: Generate README
+        run: markscribe -write README.md profile_template.md
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: update README with WakaTime stats"
+          git push
