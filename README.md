@@ -1,9 +1,9 @@
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=600&center=true&lines=Second+Year+CSE+Student;Web+Developer;Open+Source+Contributor" alt="Typing Animation" />
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=600&center=true&lines=Second+Year+CSE+Student;Web+Developer;Open+Source+Contributor" alt="Typing Animation" />
 </h1>
 
 ---
@@ -19,27 +19,30 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
-
 ## 🚀 Highlight Reels
 
-- 🥇 **CodeFlow 2K25 Hackathon Winner**  
-- 🌐 **Over 15 projects** blending software and AI.
+- 🥇 **CodeFlow 2K25 Hackathon Winner** ![badge](https://img.shields.io/badge/Winner-🥇-yellow)
+- 🌐 **15+ projects** blending software & AI ![badge](https://img.shields.io/badge/Projects-15+-blue)
 
 ---
 
 ## 🧠 Notable Builds
 
 ### 🌾 Pragati Path  
-AI crop advisor with *image disease detection (TensorFlow.js)* and *multilingual chatbot (Gemini API)*.
+AI crop advisor with image disease detection & multilingual chatbot.  
+![TensorFlow.js](https://img.shields.io/badge/TF.js-orange?logo=tensorflow&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?logo=google&logoColor=white)
 
 ### 💥 Código / CodeBattle  
-Live 1v1 code duel platform — *Socket.IO, Redis leaderboard, AI hints*.
+Live 1v1 code duel platform with real-time leaderboard & AI hints.  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### 🤝 Alpha Chat  
-Live chat with team coders, code snippet sharing, dropdown filters.
+Live chat for devs with code snippet sharing + filters.  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 
 ### 👥 Alpha Coders  
-Team showcase, projects, AI code helper, dev chatroom.
+Team showcase, AI code helper, & dev chatroom.  
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
@@ -48,6 +51,7 @@ Team showcase, projects, AI code helper, dev chatroom.
 - 🚀 Always exploring new projects and pushing code!
 
 ---
+
 ## 🏆 Hackathon Achievements  
 
 <div align="center">
@@ -57,6 +61,7 @@ Team showcase, projects, AI code helper, dev chatroom.
 </div>
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### Programming Languages
@@ -110,7 +115,6 @@ Team showcase, projects, AI code helper, dev chatroom.
     <img src="https://img.shields.io/badge/JavaScript_Algorithms_&_DS-Certified-yellow?style=for-the-badge&logo=javascript">
   </a>
 </div>
-
 
 ---
 
@@ -169,8 +173,8 @@ Team showcase, projects, AI code helper, dev chatroom.
 
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Vortex-16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Vortex-16&theme=default&hide_border=true">
     <img src="https://streak-stats.demolab.com/?user=Vortex-16&theme=radical&hide_border=true" alt="GitHub Streak" />
   </picture>
 
@@ -200,6 +204,7 @@ Team showcase, projects, AI code helper, dev chatroom.
   <img src="https://github-profile-trophy.vercel.app/?username=Vortex-16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 </picture>
 
+---
 
 ### 👥 Alpha Coders Team
 
@@ -226,11 +231,11 @@ Team showcase, projects, AI code helper, dev chatroom.
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vortex-16/vortex-16/output/github-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vortex-16&style=flat-square&color=red" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Vortex-16&style=flat-square&color=red" alt="Profile Views">
 </div>
