@@ -231,7 +231,7 @@ Team showcase, AI code helper, & dev chatroom.
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vortex-16/vortex-16/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
