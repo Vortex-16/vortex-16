@@ -171,21 +171,21 @@ Team showcase, projects, AI code helper, dev chatroom.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vikashgupta16&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=vikashgupta16&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=vortex-16&theme=radical&hide_border=true" alt="GitHub Streak" />
   </picture>
 
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex-16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex-16&layout=compact&theme=default&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgupta16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </picture>
 
   <!-- Activity Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-light&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashgupta16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vortex-16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vortex-16&theme=github-light&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vortex-16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
   </picture>
 
 </div>
@@ -195,15 +195,10 @@ Team showcase, projects, AI code helper, dev chatroom.
 ### 🏆 GitHub Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=onedark&margin-w=10&margin-h=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashgupta16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vortex-16&theme=onedark&margin-w=10&margin-h=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vortex-16&theme=flat&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=vortex-16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 </picture>
-
-### SLACK  
-<div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=15260&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent">
-</div>
 
 
 ### 👥 Alpha Coders Team
@@ -212,7 +207,7 @@ Team showcase, projects, AI code helper, dev chatroom.
   <a href="https://github.com/Dealer-09" target="_blank">
     <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/vikashgupta16" target="_blank">
+  <a href="https://github.com/vortex-16" target="_blank">
     <img src="https://img.shields.io/badge/Vikash_Gupta-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/Rouvik" target="_blank">
@@ -231,12 +226,11 @@ Team showcase, projects, AI code helper, dev chatroom.
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vikashgupta16/vikashgupta16/output/github-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/vortex-16/vortex-16/output/github-snake.svg" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikashgupta16&style=flat-square&color=red" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vortex-16&style=flat-square&color=red" alt="Profile Views">
 </div>
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
