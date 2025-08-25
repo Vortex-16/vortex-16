@@ -231,11 +231,11 @@ Team showcase, AI code helper, & dev chatroom.
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Vortex-16/vortex-16/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vortex-16&style=flat-square&color=red" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vortex-16&style=flat-square&color=red" alt="Profile Views">
 </div>
