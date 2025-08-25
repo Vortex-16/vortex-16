@@ -237,5 +237,5 @@ Team showcase, AI code helper, & dev chatroom.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vortex-16&style=flat-square&color=red" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Vortex-16&style=flat-square&color=red" alt="Profile Views">
 </div>
