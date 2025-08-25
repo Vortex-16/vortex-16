@@ -21,7 +21,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: vikashgupta16
+          github_user_name: Vortex-16
           outputs: |
             dist/github-snake.svg?color_snake=#FF073A
             dist/github-snake-dark.svg?color_snake=#FF073A
