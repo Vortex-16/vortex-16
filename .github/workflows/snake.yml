@@ -7,13 +7,11 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake Animations
@@ -23,12 +21,11 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#FF073A
             dist/github-snake-dark.svg?color_snake=#FF073A
-            dist/ocean.gif?color_snake=#FF073A
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # or use PERSONAL_TOKEN if needed
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # OR use PERSONAL_TOKEN
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animations [skip ci]"
